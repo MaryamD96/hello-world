@@ -12,4 +12,4 @@ astuce: 'development'. La branche nouvellement créée peut être rénommée ave
 astuce: 
 astuce: 	git branch -m <nom>
   
-  changement
+  changements
