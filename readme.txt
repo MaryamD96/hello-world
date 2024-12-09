@@ -11,4 +11,5 @@ astuce: Les noms les plus utilisés à la place de 'master' sont 'main', 'trunk'
 astuce: 'development'. La branche nouvellement créée peut être rénommée avec :
 astuce: 
 astuce: 	git branch -m <nom>
-
+  
+  changement
